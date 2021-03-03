@@ -6,6 +6,8 @@ class Articles:
      - quantite dispo
      - seller
      """
+    """" Name: 0xFlamby
+    """
 
     def __init__(self, p_id=-1, p_name="Unamed", p_price=-1,
                  p_avaProd=-1, p_seller="Unamed", p_desc="unamed"):
